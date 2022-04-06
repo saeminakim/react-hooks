@@ -15,6 +15,7 @@ export const useClick = (onClick) => {
       }
     };
   }, []);
+
   return element;
 };
 
